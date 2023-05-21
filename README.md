@@ -2,7 +2,7 @@
 
 # Excess Food Donation Listings Website
 
-![Website Screenshot](Screenshot (152).png)
+![Website Screenshot](https://github.com/akarshkr18/FeedForward/blob/master/Screenshot%20(152).png)
 
 This website allows users to list excess food donations and connect them with individuals or organizations in need. It helps reduce food waste and promote the efficient distribution of food resources.
 
